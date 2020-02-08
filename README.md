@@ -2,4 +2,4 @@
 
 Files for CS 6241 Numerical Methods for Data Science
 
-Spring 2020, Cornell University, taught by Austin Benson
+taught by Austin Benson, Spring 2020, Cornell University
